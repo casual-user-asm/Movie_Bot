@@ -7,7 +7,7 @@ from movies import *
 
 
 logging.basicConfig(level=logging.INFO)
-bot = Bot(token='6515138891:AAGH1SBp-gJ-o6Xs0sqbIq-Ke4YQIWsQp3w')
+bot = Bot(token='*******')
 dp = Dispatcher()
 
 
